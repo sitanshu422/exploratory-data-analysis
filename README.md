@@ -5,3 +5,6 @@
 * steps
 ##  What is Exploratory Data Analysis?
 Technique to understand various aspects of the data
+##  what is the objective of EDA?
+* Identyfy faulty point in data
+*  realtionship between variables

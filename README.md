@@ -8,3 +8,7 @@ Technique to understand various aspects of the data
 ##  what is the objective of EDA?
 * Identyfy faulty point in data
 *  realtionship between variables
+## steps
+* Understand the data
+*  clean the data
+*  Analysis the relation ship between variables

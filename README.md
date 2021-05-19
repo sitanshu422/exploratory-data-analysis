@@ -4,3 +4,4 @@
 * what is the objective of EDA?
 * steps
 ##  What is Exploratory Data Analysis?
+Technique to understand various aspects of the data
